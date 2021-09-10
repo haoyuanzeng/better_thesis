@@ -1,0 +1,4 @@
+out/
+log/*.log
+# log/!something_else.R
+data/
